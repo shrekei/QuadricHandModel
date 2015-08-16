@@ -6,9 +6,9 @@ B. Stenger, et.al, Model-Based Hand Tracking Using an Unscented Kalman Filter, i
 
 This project is developed using C++/MFC/OpenGL/OpenCV. So make sure these libraries are installed before you run the project. 
 
-In the menu ¡°Console¡±, you can open Console to assist debug and test the program. 
+In the menu "Console", you can open Console to assist debug and test the program. 
 
-In the menu ¡°Debug¡±, you can find two functions. First is ¡°show projection¡±, and you can use it to generate the projected depth/silhouette/edge images for the current configuration of the hand. Second is ¡°normalize model¡±, and you can use it to move the hand model at a specific distance before the camera (Camera is assumed to be at the origin and pointing at (0, 0, 1)), so that the size of the synthesis images just fit the image. Note!! Make sure you move the hand model in front the camera when you generate the synthesis images.  
+In the menu "Debug", you can find two functions. First is "show projection", and you can use it to generate the projected depth/silhouette/edge images for the current configuration of the hand. Second is "normalize model", and you can use it to move the hand model at a specific distance before the camera (Camera is assumed to be at the origin and pointing at (0, 0, 1)), so that the size of the synthesis images just fit the image. Note!! Make sure you move the hand model in front the camera when you generate the synthesis images.  
 
 In the main panel, use Ctrl+mouse wheel to change distance, and use left mouse to change the viewpoint. 
 
