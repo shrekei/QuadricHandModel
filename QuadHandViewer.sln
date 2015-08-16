@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathUtilities", "MathUtilities\MathUtilities.vcxproj", "{C285F8F9-88D5-42CD-8DDE-68B9F4E66041}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Htouch", "Htouch\Htouch.vcxproj", "{AFDD3280-DFCC-488C-AD55-00024D561D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C285F8F9-88D5-42CD-8DDE-68B9F4E66041}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C285F8F9-88D5-42CD-8DDE-68B9F4E66041}.Debug|Win32.Build.0 = Debug|Win32
+		{C285F8F9-88D5-42CD-8DDE-68B9F4E66041}.Release|Win32.ActiveCfg = Release|Win32
+		{C285F8F9-88D5-42CD-8DDE-68B9F4E66041}.Release|Win32.Build.0 = Release|Win32
+		{AFDD3280-DFCC-488C-AD55-00024D561D7B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFDD3280-DFCC-488C-AD55-00024D561D7B}.Debug|Win32.Build.0 = Debug|Win32
+		{AFDD3280-DFCC-488C-AD55-00024D561D7B}.Release|Win32.ActiveCfg = Release|Win32
+		{AFDD3280-DFCC-488C-AD55-00024D561D7B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
